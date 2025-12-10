@@ -1,0 +1,1 @@
+D:\TOOLS\cloc-2.06.exe *.* include\*.* plugins\*.* config\*.*

@@ -1,0 +1,1 @@
+gcc main.c api.c global.c plugin.c .\dict\dict.c .\lua\*.c -I.\include -DLUA_COMPAT_5_2 -o main
