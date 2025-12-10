@@ -67,7 +67,7 @@ Token *tokenize(const char *line)
     char *raw = parse(line);
     int quote_on = 0;
 
-    
+    // ...    
 
     for(int i=0, k=0; i<strlen(raw); i++)
     {
